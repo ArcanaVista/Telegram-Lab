@@ -79,9 +79,9 @@ URL: https://t.me/+OU1lpTQbSpA3OTdi
 
 ## 📚 Корисні посилання
 
-- [Arcana Vista — Telegram-канал автора](https://t.me/+OU1lpTQbSpA3OTdi)
-- [Офіційна документація Telegram](https://core.telegram.org/constructor/media)
-- [GitHub Topics: telegram, image-guide, українською](#)
+- [Arcana Vista – Telegram-канал](https://t.me/+OU1lpTQbSpA3OTdi)
+- [Офіційний FAQ Telegram](https://telegram.org/faq)
+- [GitHub Topics](https://github.com/topics/telegram)
 
 ---
 
