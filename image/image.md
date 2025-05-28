@@ -92,3 +92,5 @@ URL: https://t.me/+OU1lpTQbSpA3OTdi
 ---
 
 > Автор: [Arcana Vista](https://t.me/+OU1lpTQbSpA3OTdi)
+
+[⬅️ Назад до головної сторінки репозиторію](https://github.com/ArcanaVista/Telegram-Lab)
