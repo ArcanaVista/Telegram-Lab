@@ -1,11 +1,14 @@
-[⬅️ Назад до головної сторінки репозиторію](https://github.com/ArcanaVista/Telegram-Lab)
-
 <!--
 Title: Основи Telegram-каналу
 Description: Базові поняття про Telegram, створення каналу, чат, опис, біо та концепція. Покроковий гайд для новачків.
 Author: Arcana Vista
 URL: https://t.me/+OU1lpTQbSpA3OTdi
 -->
+
+[⬅️ Назад до головної сторінки репозиторію](https://github.com/ArcanaVista/Telegram-Lab)
+[➡️ До розділу 2](../content_strategy/README.md#збір-та-аналіз-аудиторії)
+
+---
 
 ## 1. 📡 Основи Telegram-каналу
 
@@ -127,4 +130,8 @@ URL: https://t.me/+OU1lpTQbSpA3OTdi
 - [Офіційний FAQ Telegram](https://telegram.org/faq)
 - [GitHub Topics](https://github.com/topics/telegram)
 
+---
+
+[➡️ До розділу 2](../content_strategy/README.md#збір-та-аналіз-аудиторії)
 [⬅️ Назад до головної сторінки репозиторію](https://github.com/ArcanaVista/Telegram-Lab)
+
