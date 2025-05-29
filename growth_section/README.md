@@ -7,6 +7,9 @@ URL: https://t.me/+OU1lpTQbSpA3OTdi
 
 [⬅️ Назад до головної сторінки репозиторію](https://github.com/ArcanaVista/Telegram-Lab)
 
+[⬅️ Назад до розділу 3](../design/README.md#контент-і-стиль) | [➡️ До розділу 5](../security_section/README.md#5безпека-і-модерація)
+
+---
 ## 4. 📣 Ріст і просування  <a name="4ріст-і-просування"></a>
 
 ---
@@ -84,5 +87,9 @@ URL: https://t.me/+OU1lpTQbSpA3OTdi
 - [Arcana Vista – Telegram-канал](https://t.me/+OU1lpTQbSpA3OTdi)
 - [Офіційний FAQ Telegram](https://telegram.org/faq)
 - [GitHub Topics](https://github.com/topics/telegram)
+
+---
+
+[⬅️ Назад до розділу 3](../design/README.md#контент-і-стиль) | [➡️ До розділу 5](../security_section/README.md#5безпека-і-модерація)
 
 [⬅️ Назад до головної сторінки репозиторію](https://github.com/ArcanaVista/Telegram-Lab)
