@@ -7,7 +7,9 @@ URL: https://t.me/+OU1lpTQbSpA3OTdi
 
 [⬅️ Назад до головної сторінки репозиторію](https://github.com/ArcanaVista/Telegram-Lab)
 
+[⬅️ Назад до розділу 2](../content_strategy/README.md#збір-та-аналіз-аудиторії) | [➡️ До розділу 4](../growth_section/README.md#4ріст-і-просування)
 
+---
 
 ## 3. ✍️ Контент, стиль та оформлення <a name="контент-і-стиль"></a>
 
@@ -234,4 +236,9 @@ URL: https://t.me/+OU1lpTQbSpA3OTdi
 - [Офіційний FAQ Telegram](https://telegram.org/faq)
 - [GitHub Topics](https://github.com/topics/telegram)
 
+---
+
+[⬅️ Назад до розділу 2](../content_strategy/README.md#збір-та-аналіз-аудиторії) | [➡️ До розділу 4](../growth_section/README.md#4ріст-і-просування)
+
 [⬅️ Назад до головної сторінки репозиторію](https://github.com/ArcanaVista/Telegram-Lab)
+
