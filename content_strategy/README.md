@@ -7,7 +7,8 @@ URL: https://t.me/+OU1lpTQbSpA3OTdi
 
 [⬅️ Назад до головної сторінки репозиторію](https://github.com/ArcanaVista/Telegram-Lab)
 
-[⬅️ Назад до розділу 1](..what_is_Telegram/README.md#11-загальна-інформація) | [➡️ До розділу 3](../design/README.md#контент-і-стиль)
+[⬅️ Назад до розділу 1](../what_is_Telegram/what_is_Telegram/README.md) | [➡️ До розділу 3](../design/README.md#контент-і-стиль)
+
 --- 
 
 ## 2. 📊 Збір та аналіз аудиторії <a name="збір-та-аналіз-аудиторії"></a>
@@ -108,6 +109,6 @@ https://t.me/yourchannel?utm_source=insta&utm_medium=stories&utm_campaign=launch
 
 ---
 
-[⬅️ Назад до розділу 1](..what_is_Telegram/README.md#11-загальна-інформація) | [➡️ До розділу 3](../design/README.md#контент-і-стиль)
+[⬅️ Назад до розділу 1](../what_is_Telegram/README.md) | [➡️ До розділу 3](../design/README.md#контент-і-стиль)
 
 [⬅️ Назад до головної сторінки репозиторію](https://github.com/ArcanaVista/Telegram-Lab)
