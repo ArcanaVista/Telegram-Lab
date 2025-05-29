@@ -7,7 +7,7 @@ URL: https://t.me/+OU1lpTQbSpA3OTdi
 
 [⬅️ Назад до головної сторінки репозиторію](https://github.com/ArcanaVista/Telegram-Lab)
 
-[⬅️ Назад до розділу 1](../what_is_Telegram/what_is_Telegram/README.md) | [➡️ До розділу 3](../design/README.md#контент-і-стиль)
+[⬅️ Назад до розділу 1](../what_is_Telegram/README.md) | [➡️ До розділу 3](../design/README.md#контент-і-стиль)
 
 --- 
 
