@@ -6,6 +6,7 @@ URL: https://t.me/+OU1lpTQbSpA3OTdi
 -->
 
 [⬅️ Назад до головної сторінки репозиторію](https://github.com/ArcanaVista/Telegram-Lab)
+
 [➡️ До розділу 2](../content_strategy/README.md#збір-та-аналіз-аудиторії)
 
 ---
