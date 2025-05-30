@@ -140,10 +140,8 @@ Telegram дозволяє створити **декілька індивідуа
 | Бот | Призначення |
 |-----|-------------|
 | [@ControllerBot](https://t.me/ControllerBot) | Розклад постів, кнопки, статистика |
-| [@VoteBot](https://t.me/VoteBot) | Опитування та голосування |
-| [@ShieldyBot](https://t.me/ShieldyBot) | Антиспам для груп |
-| [@Combot](https://combot.org/) | Аналітика груп, рейтинги |
-| [@RoseSupportBot](https://t.me/RoseSupportBot) | Автомодерація, фільтри |
+| [@VoteBot](https://t.me/Vote) | Опитування та голосування |
+| [@Combot](https://t.me/combot) | Аналітика груп, рейтинги |
 | [@SkeddyBot](https://t.me/SkeddyBot) | Нагадування та задачі |
 | [@Manybot](https://t.me/manybot) | Бот-конструктор без коду |
 
