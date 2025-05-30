@@ -80,8 +80,6 @@ URL: https://t.me/+OU1lpTQbSpA3OTdi
 | [Telemetr](https://telemetr.me) | Графіки, топ-пости, зростання, відстеження конкурентів |
 | [TGStat](https://tgstat.com) | Аналітика, пошук по каналах, API, рейтинг |
 | [Combot](https://combot.org) | Для чатів: активність, лідери, часи публікацій |
-| [LiveDune](https://livedune.com/telegram) | Звіти, графіки, мультиплатформова аналітика |
-| [Publer](https://publer.io/telegram) | Візуалізація охоплень, підписок, порівняння каналів |
 
 > Рекомендується під'єднати офіційних ботів (наприклад, [TelemetrBot](https://t.me/TelemetrBot)), щоби автоматично зберігати динаміку вашого каналу.
 
