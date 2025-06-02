@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArcanaVista/Telegram-Lab/c8be1746f704349afd5e5521c42a81943d4323a0/AV.png" alt="AV Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ArcanaVista/Channel-Status/main/status.png" alt="AV Banner" width="100%" />
 </p>
 
 ---
